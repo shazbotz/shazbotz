@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-@shamil__shaz03-7C3AED?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:muhammedshamil3603@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
