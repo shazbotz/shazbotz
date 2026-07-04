@@ -1,118 +1,107 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammed Shamil
+# SHAZBOTZ
 
-### `SHAZBOTZ`
-
-> **Curiosity is my roadmap. I build to explore what's possible.**
+### Curiosity is my roadmap. I build to explore what's possible.
 
 <p>
   <a href="https://t.me/shamil_shaz03">
-    <img src="https://img.shields.io/badge/Telegram-@shamil__shaz03-7C3AED?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Personal-Telegram-7C3AED?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/shazbotz">
+    <img src="https://img.shields.io/badge/Project-Channel-9333EA?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
   <a href="mailto:muhammedshamil3603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/shazbotz">
-    <img src="https://img.shields.io/badge/GitHub-SHAZBOTZ-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-shazbotz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# Who Am I?
 
-I'm **Muhammed Shamil**, better known as **Shazbotz**.
+I'm **Muhammed Shamil**, also known as **Shazbotz**.
 
-I love building useful software, experimenting with AI, automating repetitive tasks, and turning ideas into real products.
+I enjoy building useful software, experimenting with AI, automating repetitive work, and transforming ideas into products that people can actually use.
 
-> **Build. Learn. Improve. Repeat.**
+I don't build just to write code.
 
----
-
-# 🚀 What I'm Building
-
-- 🤖 AI Tools
-- 📱 Mobile Apps
-- ⚡ Automation Projects
-- 🧠 Experimental Ideas
-- 💜 Open Source
+I build because curiosity deserves a working prototype.
 
 ---
 
-# 🛠 Tech Stack
+# What I'm Working On
 
-<p align="center">
+🧠 AI-powered tools
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,git,github,linux,vscode,firebase,mongodb,sqlite"/>
+⚡ Automation systems
 
-</p>
+📱 Mobile applications
 
----
+🤖 Telegram bots
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shazbotz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazbotz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+🚀 Products that solve real problems
 
 ---
 
-# 🔥 Contribution Streak
+# My Mindset
 
-<p align="center">
+```
+Observe.
 
-<img src="https://streak-stats.demolab.com?user=shazbotz&theme=tokyonight&hide_border=true"/>
+Question.
 
-</p>
+Experiment.
 
----
+Build.
 
-# 🏆 GitHub Trophies
+Improve.
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shazbotz&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
+Repeat.
+```
 
 ---
 
-# 📈 Activity Graph
+# Technologies I Enjoy
 
-<p align="center">
+• Python
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shazbotz&theme=tokyo-night"/>
+• Flutter
 
-</p>
+• Dart
+
+• Git
+
+• Linux
+
+• Firebase
+
+• SQLite
+
+• VS Code
 
 ---
 
-# 🚀 Featured Projects
+# Philosophy
 
-⭐ AutoFilterBot
+> Great software doesn't begin with code.
 
-⭐ AI Utilities
-
-⭐ Telegram Bots
-
-⭐ Experimental Apps
+> It begins with curiosity.
 
 ---
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### Thanks for visiting.
 
-**"Where curiosity becomes creation."**
+**See you in the next build. 🚀**
 
 </div>
