@@ -1,0 +1,32 @@
+<svg width="380" height="220" viewBox="0 0 380 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="apCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.015"/>
+    </linearGradient>
+    <linearGradient id="apIconBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="apGlow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="380" height="220" fill="#09090B"/>
+  <circle cx="330" cy="10" r="120" fill="url(#apGlow)"/>
+  <rect x="1" y="1" width="378" height="218" rx="22" fill="url(#apCardBg)" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <rect x="1" y="1" width="378" height="1" fill="#FFFFFF" opacity="0.14"/>
+
+  <rect x="28" y="28" width="52" height="52" rx="16" fill="url(#apIconBg)"/>
+  <rect x="42" y="40" width="12" height="20" rx="3" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="58" y="46" width="12" height="20" rx="3" fill="#FFFFFF" fill-opacity="0.85"/>
+  <circle cx="48" cy="56" r="1.4" fill="#FFFFFF"/>
+
+  <text x="28" y="112" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">Applications</text>
+  <text x="28" y="138" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#FFFFFF" fill-opacity="0.6">Crafting focused apps with clean interfaces</text>
+  <text x="28" y="158" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#FFFFFF" fill-opacity="0.6">and dependable performance under the hood.</text>
+
+  <rect x="28" y="176" width="112" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.05" stroke="#C084FC" stroke-opacity="0.4"/>
+  <text x="84" y="193" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1" fill="#C084FC">WEB &amp; MOBILE</text>
+</svg>

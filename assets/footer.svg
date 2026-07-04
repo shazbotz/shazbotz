@@ -1,0 +1,28 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="footGlow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="footText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="footBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" fill="#09090B"/>
+  <circle cx="600" cy="10" r="260" fill="url(#footGlow)" filter="url(#footBlur)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="#FFFFFF" opacity="0.08"/>
+
+  <text x="600" y="118" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5" fill="url(#footText)">Let&#8217;s build something precise.</text>
+  <text x="600" y="154" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.55">Open to collaborations in AI, automation and product engineering.</text>
+
+  <g transform="translate(600,196)">
+    <rect x="-90" y="-16" width="180" height="1" fill="#FFFFFF" opacity="0.08"/>
+  </g>
+
+  <text x="600" y="238" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="1.5" fill="#FFFFFF" fill-opacity="0.4">SHAZBOTZ &#8212; MUHAMMED SHAMIL</text>
+  <text x="600" y="260" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" fill-opacity="0.28">&#169; 2026 &#8226; Designed with glass, purple and precision.</text>
+</svg>
